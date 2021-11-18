@@ -31,7 +31,7 @@ homepage
 <img src="images/homepage.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-onderzoek
+inlogscherm
 <img src="images/onderzoek.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -43,14 +43,14 @@ onderzoek
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+### breakdown homepage: 
+<img src="images/breakdownschets_1" width="375px" alt="breakdown van de homepage">
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+### breakdown inlogscherm: 
+<img src="images/breakdownschets_2" width="375px" alt="breakdown van inlogscherm">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+### breakdown menu: 
+<img src="images/breakdownschets_menu" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
