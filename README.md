@@ -44,13 +44,13 @@ inlogscherm
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### breakdown homepage: 
-<img src="images/homepage.jpg" width="375px" alt="breakdown van de homepage">
+<img src="images/breakdownhome.jpg" width="375px" alt="breakdown van de homepage">
 
 ### breakdown inlogscherm: 
-<img src="images/homepage.jpg" width="375px" alt="breakdown van inlogscherm">
+<img src="images/breakdowninlog.jpg" width="375px" alt="breakdown van inlogscherm">
 
 ### breakdown menu: 
-<img src="images/homepage.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownmenu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
