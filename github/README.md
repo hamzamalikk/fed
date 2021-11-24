@@ -32,7 +32,7 @@ homepage
 
 #### Screenshot(s) van de tweede pagina (small screen):
 inlogscherm
-<img src="images/inlog.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/inlog.JPG" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
