@@ -3,3 +3,86 @@
   box-sizing:border-box;  
 }
 
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+  --main-color:#fff;
+}
+
+
+
+/********************/
+/* ALGEMENE STIJLEN */
+/********************/
+body {
+  margin: 0;
+  font-family:'Roboto Condensed',Arial, sans-serif;
+  color: var(--main-color);
+}
+
+/**********/
+/* HEADER */
+/**********/
+section:first-of-type{
+  background-image: linear-gradient(
+    180deg,transparent 50%,rgba(32,35,39,.5));
+}
+
+section:first-of-type img {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: -1;
+}
+
+section:nth-of-type(2) img {
+  display: flex;
+  align-items: flex-end;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3.4em;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  padding-top: 0.5em;
+}
+
+header:first-of-type a {
+  background-color: #d55140;
+  font-size: 1em;
+  border-radius: 2px;
+  text-decoration: none;
+  color: var(--main-color);
+  padding: 15px 23px;
+  font-weight: 700;
+  position: absolute;
+  right: 1.3em;
+  top: 1em;
+}
+
+
+/******************/
+/* EERSTE SECTION */
+/******************/
+
+section:first-of-type h2 {
+  text-transform: uppercase;
+  margin-top: 37em;
+  font-size: 1em;
+  margin-left: 1.5em;
+  margin-bottom: 0.4em;
+}
+
+section:first-of-type p {
+  font-size: 1em;
+  margin-left: 1.5em;
+  padding-bottom: 2.4em;
+  margin-top: 0;
+}
