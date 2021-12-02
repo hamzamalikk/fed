@@ -26,23 +26,18 @@ body {
 /**********/
 /* HEADER */
 /**********/
-section:first-of-type{
+div {
   background-image: linear-gradient(
     180deg,transparent 50%,rgba(32,35,39,.5));
 }
 
-section:first-of-type img {
-  position: absolute;
+section:first-of-type{
   top: 0;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  z-index: -1;
-}
-
-section:nth-of-type(2) img {
-  display: flex;
-  align-items: flex-end;
+  height: 100vh;
+  background-image: url(https://rijks-frontend.azureedge.net/assets/65b66683-1534-45d7-8f99-de3699cdeed7?w=830&h=1804&fx=1203&fy=1694&format=webp&c=2e43213773db3bda36e67f9050ae7971d5db277cb2869a2fe4ea63919edb852c);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;  
 }
 
 h1 {
@@ -51,7 +46,8 @@ h1 {
   display: flex;
   justify-content: center;
   font-weight: 400;
-  padding-top: 0.5em;
+  padding-top: 1.5em;
+  margin-top: 0;
 }
 
 header:first-of-type a {
@@ -82,7 +78,46 @@ section:first-of-type h2 {
 
 section:first-of-type p {
   font-size: 1em;
-  margin-left: 1.5em;
-  padding-bottom: 2.4em;
+  padding-bottom: 1.8em;
+  margin: 0 0 0 1.5em;
+}
+
+/******************/
+/* TWEEDE SECTION */
+/******************/
+
+section:nth-of-type(2) {
+  top: 0;
+  height: 100vh;
+  background-image: url(https://rijks-frontend.azureedge.net/assets/0a71e377-22ce-4adf-bf15-3d4e88462e3a?w=830&h=1804&fx=2772&fy=1884&format=webp&c=7f78d64cbc0d9d554240a537ac3f482e869a39c2f5fe36fa5d2e3c67d7cdaf01);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;  
+}
+
+section:nth-of-type(2) h2 {
+margin-top: 0;
+margin-bottom: 0.4em;
+margin-left: 1.5em;
+padding-top: 45em;
+text-transform: uppercase;
+font-size: 1em;
+}
+
+section:nth-of-type(2) p {
   margin-top: 0;
+  margin-left: 1.5em;
+  }
+
+section:nth-of-type(2) span {
+  padding: 3px 4px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  background: #ffffff;
+  color: #000000;
+  font-size: 0.8em;
+  font-weight: 700;
+  line-height: .75em;
+  text-transform: uppercase;
+  margin-left: 1.8em;
 }
