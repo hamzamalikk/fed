@@ -1,5 +1,5 @@
 de tekst van de headers is best wel onduidelijk voor een screenreader, links zijn wel duidelijk. 
-
+de diabates bril zag je gewoon goed doorhene, en lage contrsat zag je de witte tekst wat belangrijkst is goed opvallen
 ## Jij
 
 <details>
