@@ -1,3 +1,5 @@
+de tekst van de headers is best wel onduidelijk voor een screenreader, links zijn wel duidelijk. 
+
 ## Jij
 
 <details>
