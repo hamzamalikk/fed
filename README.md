@@ -190,8 +190,8 @@ het ging best goed over het algemeen, bepaalde dingen waren lastiger zoals javas
 
 ### Screenshot(s)
 
-<img src="images/eindresultaat.jpg" width="375px" alt="eindresultaat">
-<img src="images/eindresultaat2.jpg" width="375px" alt="eindresultaat">
+<img src="images/eindresultaat2.jpg" width="375px" alt="voortgang website">
+<img src="images/eindresultaat.jpg" width="375px" alt="voortgang website">
 
 </details>
 
